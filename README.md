@@ -12,5 +12,5 @@ Some examples are adapted from the text book listed below.
 [2] *Python Data Science Handbook*, by Jake VanderPlas
 
 ## Index
-[00_overview](00_overview.ipynb)
+[00_overview](00_overview.ipynb)\
 [01_overview](01_module.ipynb)
