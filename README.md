@@ -10,8 +10,6 @@ Machine learning and data analysis are a form of art that need to be mastered th
 Some examples are adapted from the text book listed below.
  
 [1] *A Whirlwind Tour of Python*, by Jake VanderPlas\
-[2] *Python Data Science Handbook*, by Jake VanderPlas\
-[3] *Introduction to Machine Learning with Python*, by Andreas C.Muller & Sarah Guido\
-[4] *A Primer on Scientific Programming with Python*, by Hans P.Langtangen\
-[5] *Scipy Lecture Notes*, by Gael Varoquaux, Emmanuelle Gouillart & Olaf Vahtras\
-[6] *Hands-On Machine Learning with Scikit-Learn & TensorFlow*, by Aurelien Geron\
+[2] *Python Data Science Handbook*, by Jake VanderPlas
+
+## Index
