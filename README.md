@@ -1,5 +1,4 @@
 # Smart buildings and cities, CE397
-**basic python programming instruction**
 
 *June Young Park & Zoltan Nagy, Fall 2018*
 
