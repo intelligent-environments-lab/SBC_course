@@ -13,4 +13,5 @@ Some examples are adapted from the text book listed below.
 
 ## Index
 [00_overview](00_overview.ipynb)\
-[01_module](01_module.ipynb)
+[01_module](01_module.ipynb)\
+[02_module](02_module.ipynb)
