@@ -8,21 +8,21 @@ Machine learning and data analysis are a form of art that need to be mastered th
 
 Some examples/data are adapted from the list below.
  
-- *A Whirlwind Tour of Python*, by Jake VanderPlas\
-- *Python Data Science Handbook*, by Jake VanderPlas\
-- *UC Irvine Machine Learning repository*\
-- *Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
-- *https://towardsdatascience.com/* \
-- *https://stackoverflow.com/* \
-- *https://stackabuse.com/* \
-- *IEA RECS data repository* \
-- *https://www.data.gov/*
+*A Whirlwind Tour of Python*, by Jake VanderPlas\
+*Python Data Science Handbook*, by Jake VanderPlas\
+*UC Irvine Machine Learning repository*\
+*Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
+*https://towardsdatascience.com/* \
+*https://stackoverflow.com/* \
+*https://stackabuse.com/* \
+*IEA RECS data repository* \
+*https://www.data.gov/*
 
 ## Index
-[00_module](00_overview.ipynb): Lab activity overview\
-[01_module](01_module.ipynb): Basic Python & Jupyter notebook\
-[02_module](02_module.ipynb): Numpy, Pandas & Data visualization\
-[03_module](03_module.ipynb): Supervised Learning 1\
-[04_module](04_module.ipynb): Supervised Learning 2\
-[05_module](05_module.ipynb): Supervised Learning 3 + Unsupervised Learning\
-[06_module](06_Module.ipynb): [In-class competition based game activity](in_class_act.pdf)
+- [00_module](00_overview.ipynb): Lab activity overview\
+- [01_module](01_module.ipynb): Basic Python & Jupyter notebook\
+- [02_module](02_module.ipynb): Numpy, Pandas & Data visualization\
+- [03_module](03_module.ipynb): Supervised Learning 1\
+- [04_module](04_module.ipynb): Supervised Learning 2\
+- [05_module](05_module.ipynb): Supervised Learning 3 + Unsupervised Learning\
+- [06_module](06_Module.ipynb): [In-class competition based game activity](in_class_act.pdf)
