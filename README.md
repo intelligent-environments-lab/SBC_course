@@ -19,7 +19,7 @@ Some examples/data are adapted from the list below.
 *https://www.data.gov/*
 
 ## Index
-[00_overview](00_overview.ipynb)\
+[00_module](00_overview.ipynb): Lab activity overview\
 [01_module](01_module.ipynb)\
 [02_module](02_module.ipynb)\
 [03_module](03_module.ipynb)\
