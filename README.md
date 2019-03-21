@@ -1,6 +1,6 @@
 # Smart buildings and cities, CE397, Fall 2018
 
-*Instructors: Zoltan Nagy, June Young Park*
+*Zoltan Nagy, June Young Park*
 
 This repository contains the course matrial (lab session) for CE397 course. 
 
