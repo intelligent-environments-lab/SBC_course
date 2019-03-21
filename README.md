@@ -6,10 +6,17 @@ This repository contains the course matrial (lab session) for CE397 course.
 
 Machine learning and data analysis are a form of art that need to be mastered through doing it. Therefore, one half to two thirds of the course will be held in the computer room using Python. Students are welcome to bring their own Laptops with Python installed on it. In the first part of the course, we will review python programming basics. As the course evolves, we will move towards applying the theoretical concepts learned in class in Python.
 
-Some examples are adapted from the text book listed below.
+Some examples/data are adapted from the list below.
  
-[1] *A Whirlwind Tour of Python*, by Jake VanderPlas\
-[2] *Python Data Science Handbook*, by Jake VanderPlas
+*A Whirlwind Tour of Python*, by Jake VanderPlas\
+*Python Data Science Handbook*, by Jake VanderPlas\
+*UC Irvine Machine Learning repository*\
+*Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
+*https://towardsdatascience.com/*\
+*https://stackoverflow.com/*\
+*https://stackabuse.com/*\
+*IEA RECS data repository*\
+*https://www.data.gov/*
 
 ## Index
 [00_overview](00_overview.ipynb)\
