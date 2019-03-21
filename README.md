@@ -25,4 +25,4 @@ Some examples/data are adapted from the list below.
 [03_module](03_module.ipynb): Supervised Learning 1\
 [04_module](04_module.ipynb): Supervised Learning 2\
 [05_module](05_module.ipynb): Unsupervised Learning\
-[06_module](06_module.ipynb): [In-class competition based game activity](act.pdf)
+[06_module](06_Module.ipynb): [In-class competition based game activity](in_class_act.pdf)
