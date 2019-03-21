@@ -24,5 +24,5 @@ Some examples/data are adapted from the list below.
 [02_module](02_module.ipynb): Numpy, Pandas & Data visualization\
 [03_module](03_module.ipynb): Supervised Learning 1\
 [04_module](04_module.ipynb): Supervised Learning 2\
-[05_module](05_module.ipynb): Unsupervised Learning\
+[05_module](05_module.ipynb): Supervised Learning 3 + Unsupervised Learning\
 [06_module](06_Module.ipynb): [In-class competition based game activity](in_class_act.pdf)
