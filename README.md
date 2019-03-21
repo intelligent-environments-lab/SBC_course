@@ -12,10 +12,10 @@ Some examples/data are adapted from the list below.
 *Python Data Science Handbook*, by Jake VanderPlas\
 *UC Irvine Machine Learning repository*\
 *Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
-*https://towardsdatascience.com/*\
-*https://stackoverflow.com/*\
-*https://stackabuse.com/*\
-*IEA RECS data repository*\
+*https://towardsdatascience.com/* \
+*https://stackoverflow.com/* \
+*https://stackabuse.com/* \
+*IEA RECS data repository* \
 *https://www.data.gov/*
 
 ## Index
