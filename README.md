@@ -8,15 +8,15 @@ Machine learning and data analysis are a form of art that need to be mastered th
 
 Some examples/data are adapted from the list below.
  
-*A Whirlwind Tour of Python*, by Jake VanderPlas\
-*Python Data Science Handbook*, by Jake VanderPlas\
-*UC Irvine Machine Learning repository*\
-*Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
-*https://towardsdatascience.com/* \
-*https://stackoverflow.com/* \
-*https://stackabuse.com/* \
-*IEA RECS data repository* \
-*https://www.data.gov/*
+- *A Whirlwind Tour of Python*, by Jake VanderPlas\
+- *Python Data Science Handbook*, by Jake VanderPlas\
+- *UC Irvine Machine Learning repository*\
+- *Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
+- *https://towardsdatascience.com/* \
+- *https://stackoverflow.com/* \
+- *https://stackabuse.com/* \
+- *IEA RECS data repository* \
+- *https://www.data.gov/*
 
 ## Index
 [00_module](00_overview.ipynb): Lab activity overview\
