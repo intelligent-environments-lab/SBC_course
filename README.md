@@ -11,11 +11,11 @@ Some examples/data are adapted from the list below:
 *A Whirlwind Tour of Python*, by Jake VanderPlas\
 *Python Data Science Handbook*, by Jake VanderPlas\
 *UC Irvine Machine Learning repository*\
+*IEA RECS data repository* \
 *Real estate market & building energy perforance: Data for a mass appraisal approach*, Data in Brief, Bonifaci & Copiello\
 *https://towardsdatascience.com/* \
 *https://stackoverflow.com/* \
 *https://stackabuse.com/* \
-*IEA RECS data repository* \
 *https://www.data.gov/*
 
 ## Index
