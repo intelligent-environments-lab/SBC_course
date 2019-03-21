@@ -1,6 +1,6 @@
 # Smart buildings and cities, CE397, Fall 2018
 
-*Zoltan Nagy, June Young Park*
+*[Zoltan Nagy](https://nagy.caee.utexas.edu/team/prof-zoltan-nagy-phd/), [June Young Park](http://sites.utexas.edu/juneyoungpark/)*
 
 This repository contains the course matrial (lab session) for CE397 course. 
 
